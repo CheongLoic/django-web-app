@@ -16,8 +16,8 @@ Go to http://127.0.0.1:8000/bands
 
 
 
-To manage the database as an admin go to : http://127.0.0.1:8000/admin < br / >
-username : loic < br / >
+To manage the database as an admin go to : http://127.0.0.1:8000/admin <br/>
+username : loic <br/>
 password : azerty01
 
 To create a new admin, run at the terminal in the virtual environment `python manage.py createsuperuser`
